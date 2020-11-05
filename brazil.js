@@ -33,8 +33,6 @@ function displayRio() {
     displayCities();
 }
 
-
-
 function displaySP() {
     displayElement("sp");
     hideCitiesExcept("sp");
